@@ -1,1 +1,8 @@
 Flask<1
+oauth2client
+smtplib
+urllib2
+nose
+requests[security]
+betamax==0.8.1
+-e git+https://github.com/burnash/betamax-json-body-serializer.git#egg=betamax_json_body_serializer
